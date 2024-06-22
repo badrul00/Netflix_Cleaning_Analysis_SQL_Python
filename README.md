@@ -5,7 +5,7 @@
   
   Project tutorial credit to: Ankit Bansal
 
-  ## Python:
+  ## Python
   1. Read file using pandas
   2. Connect to SQL server
   3. Check every column character length
@@ -53,7 +53,9 @@
 2.	Counting the number of movies added each year for each director
 3.	Ranking directors within each year by the number of movies they released
 4.	Selecting the top-ranked director for each year.
---what is average duration of movies in each genre
+
+### What is average duration of movies in each genre
+
 1.	calculates the average duration of movies for each genre
 2.	Joining the netflix and netflix_genre tables to associate each movie with its genre
 3.	Filtering to include only movies
